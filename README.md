@@ -1,4 +1,4 @@
-# Joelettes
+# Joëlettes
 Site Joëlettes du Bout du Monde
 
 Little site I did for my father. This allowed me to test my skills in html, css, js... and they are pretty ok :)
